@@ -40,10 +40,10 @@ source("R/05_predict_one.R")
 ## Repo map
 ```php
 R/           ... 01_* to 05_* scripts (EDA → prep → train → eval → predict)
-notebooks/   ... original Rmd (optional)
-data/        ... (not in git) CSVs go here; see data/README.md
-models/      ... saved .rds (ignored in git; use Releases)
-results/     ... metrics.json and generated figures
+notebooks/   ... original Rmd 
+data/        ... (not in git); see data/README.md
+models/      ... saved .rds (not provided)
+results/     ... generated figures
 docs/        ... report.pdf and figures from the report
 ```
 
