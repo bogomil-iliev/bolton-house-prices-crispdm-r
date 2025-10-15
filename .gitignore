@@ -47,3 +47,19 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# project-specific
+data/
+models/
+results/
+.DS_Store
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user
+
+# model and cache files
+*.rds
+*.rda
+*.RData
