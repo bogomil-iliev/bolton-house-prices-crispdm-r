@@ -63,3 +63,9 @@ results/
 *.rds
 *.rda
 *.RData
+
+renv/library/
+.Rhistory
+.RData
+.Rproj.user
+
