@@ -53,3 +53,6 @@ Coordinates and unique identifiers are excluded from modelling to protect privac
 ## License
 **MIT**
 
+## Citation
+[➡️ Cite this repository](./CITATION.cff)
+
