@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Bolton House Prices — CRISP-DM with Random Forest (R)"
+authors:
+  - family-names: "Iliev"
+    given-names: "Bogomil"
+repository-code: "https://github.com/bogomil-iliev/bolton-house-prices-crispdm-r"
+keywords: ["R","CRISP-DM","regression","random forest","real estate","Bolton"]
+license: "MIT"
+preferred-citation:
+  type: report
+  title: "Data-Driven Valuation of Residential Properties in Bolton"
+  authors:
+    - family-names: "Iliev"
+      given-names: "Bogomil"
+  year: 2025
+  url: "https://github.com/bogomil-iliev/bolton-house-prices-crispdm-r/blob/main/docs/report.pdf"
