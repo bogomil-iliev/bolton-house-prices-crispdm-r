@@ -1,3 +1,4 @@
+```markdown
 # Data (not included)
 
 Place the Bolton housing CSV(s) here (kept out of git for privacy/compliance).
@@ -13,3 +14,4 @@ HWY_DIST, age, avno60plus, structure_quality, month_sold, LATITUDE, LONGITUDE
 - Convert to factors: `month_sold`, `avno60plus`, `structure_quality`. :contentReference[oaicite:10]{index=10}
 - Split: 80/20 train/test; CV: 5-fold for tuning. :contentReference[oaicite:11]{index=11}
 
+```
