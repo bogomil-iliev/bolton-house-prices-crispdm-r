@@ -1,7 +1,6 @@
 
 # Data (not included)
-
-Place the Bolton housing CSV(s) here (kept out of git for privacy/compliance).
+Data Link: https://www.kaggle.com/datasets/bogomililiev2308/bolton-area-housing-prices-dataset
 
 **Expected columns** (see report & dataset spec):
 PARCELNO, SALE_PRC, LND_SQFOOT, TOTLVGAREA, SPECFEATVAL,
